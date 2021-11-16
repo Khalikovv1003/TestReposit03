@@ -6,5 +6,6 @@ rebase expirience
 ## May be somebody can add more text##
 
 
-No one can, without permission 
+No one can, without my permission 
 
+English battle?
